@@ -77,3 +77,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+##  O  Projeto 
+O Objetivo deste trabalho e usar um framework que é o Laravel para desenvolver um sistema web e demonstrar os principais passos da implementação e as particularidades do referido framework. 
+O sistema escolhido para implementar foi o gerenciamento de TCC para o Instituto Federal do Ceará Campus Maracanaú em que o intuito do sistema é auxiliar os alunos a encontrar temas para o TCC e um orientador e ainda exemplos de trabalhos prontos desenvolvidos no próprio IFCE. 
+
+Com o andamento da implementação será possível detalhar os passos do desenvolvimento com o framework e ao final disponibilizar o código fonte no GitHub para pesquisas em projetos com Laravel ou para melhorias no próprio sistema. 
